@@ -1,2 +1,2 @@
-# interface-drafts
+# GUI Drafts
 Drafts for a GUI
