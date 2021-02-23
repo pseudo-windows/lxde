@@ -1,2 +1,2 @@
-# GUI Drafts
-Drafts for a GUI
+# LXDE
+The LXDE environment for PSW.
